@@ -1,0 +1,8 @@
+{
+  "name": "Crayon Cove Volleyball",
+  "description": "A cozy 3D toon-shaded and hand-drawn crayon beach volleyball, gun fight, and nuke arena game with full-screen landscape support, tactile physics, and real-time multiplayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
